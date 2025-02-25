@@ -1,5 +1,5 @@
 # Sketches
 
-![!!!Caption for image!!!](!!!filename.png!!!)
+![!!!Interfaces of each screen!!!](!!!sketches.png!!!)
 
-!!!Give context by explaining each sketch image!!!
+!!!Here's the workflow of the screens for an mobile app based on the personas and scenarios that describe the users' needs.!!!
