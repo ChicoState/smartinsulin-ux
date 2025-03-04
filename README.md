@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **Syd Ainsworth(!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **Syd Ainsworth(https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - !!!List of Person A's primary contributions!!!
 * **Sri Ramani Thungapati(!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
 * **Elizabeth Rodriguez(!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
 
