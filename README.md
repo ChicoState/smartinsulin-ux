@@ -6,9 +6,9 @@
 
 ## UX Team Members
 
-* **[!!!Person A name!!!](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
-* **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
-* **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
+* **Syd Ainsworth(!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **Sri Ramani Thungapati(!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
+* **Elizabeth Rodriguez(!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
 
