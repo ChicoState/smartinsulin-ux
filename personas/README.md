@@ -1,7 +1,9 @@
 # Personas
 
 ## Profile 1
-![James Walker](JamesWalker.png) 
+<p align="center">
+  <img src="JamesWalker.png" alt="James Walker">
+</p>
 
 Name: James Walker
 
