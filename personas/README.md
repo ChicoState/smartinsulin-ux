@@ -1,8 +1,7 @@
 # Personas
 
 ## Profile 1
-![James Walker](JamesWalker.png)
-Name: James Walker
+![James Walker](JamesWalker.png) Name: James Walker
 Age: 61
 Diabetes Type: Type 2
 Career: Accountant
