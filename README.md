@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Smart Insulin
 
 Managing Type 2 diabetes can be tricky because patients need to take the right amount of insulin at the right time. If they take too much or too little, it can lead to serious health problems. Right now, many people rely on manual calculations or guesswork, which isn't always accurate.
