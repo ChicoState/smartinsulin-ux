@@ -23,13 +23,15 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 **Executive Summary**
 
-* **More Than Just a Device** – This isn’t just an insulin pump; users can also ask ChatGPT health-related questions like “How much sugar is in a Pink Lady apple?” to make smarter food choices and feel more in control of their glucose levels.
-* **Mood Diary for Tracking Well-Being** – Users can log how they’re feeling in a built-in mood diary, helping them track emotional and physical patterns related to their diabetes management.
-* **Smarter Insulin Predictions** – Our system analyzes past data to better predict how much insulin a person needs, reducing the chances of incorrect dosing.
-* **Less Work for Patients** – Automated insulin delivery means fewer manual calculations and adjustments, making life easier for users.
-* **Prototype is in Progress!** – We’ve purchased the necessary equipment and are actively working on building the system to control the insulin pump (simulated with water).
-* **Personalized for Each Person** – The system learns from each patient’s unique patterns, ensuring insulin delivery is tailored to their specific needs.
-* **A Step Toward Better Diabetes Care** – This project highlights how AI and automation can make managing diabetes safer, simpler, and more effective in the future.
+* **Understanding User Needs** – We identified that diabetes management goes beyond insulin delivery. Users need support in tracking food intake, mood, and overall well-being, making the system more than just a device.
+* **More Than Just a Device** – Our system includes features like ChatGPT integration, allowing users to ask health-related questions such as “How much sugar is in a Pink Lady apple?”, helping them make informed dietary decisions.
+* **Mood Diary for Tracking Well-Being** – A built-in mood diary allows users to log their feelings and health status, giving them a better understanding of how their mental and physical states impact glucose levels.
+* **Competitor Analysis** – We researched existing insulin pumps and diabetes management apps, identifying gaps in automation, personalization, and user engagement that our system aims to improve.
+* **Smarter Insulin Predictions** – Unlike traditional pumps, our machine learning model analyzes past data to predict insulin needs more accurately, reducing the risk of overdosing or underdosing.
+* **Less Work for Patients** – By automating insulin delivery, we eliminate the need for manual calculations and adjustments, making diabetes management simpler and more stress-free.
+* **Prototype is in Progress!** – We have purchased equipment and are actively building the system to control the insulin pump (simulated with water) using the Raspberry Pi.
+* **Personalized for Each Person** – Our system is designed to learn from individual glucose patterns, making insulin delivery customized for each user rather than a one-size-fits-all approach.
+* **A Step Toward Better Diabetes Care** – Through AI and automation, this project has the potential to enhance diabetes management, improving patient confidence, convenience, and overall health outcomes.
 
 [Full phase I report](phaseI/)
 
