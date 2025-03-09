@@ -23,7 +23,13 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
+* **More Than Just a Device** – This isn’t just an insulin pump; users can also ask ChatGPT health-related questions like “How much sugar is in a Pink Lady apple?” to make smarter food choices and feel more in control of their glucose levels.
+* **Mood Diary for Tracking Well-Being** – Users can log how they’re feeling in a built-in mood diary, helping them track emotional and physical patterns related to their diabetes management.
+* **Smarter Insulin Predictions** – Our system analyzes past data to better predict how much insulin a person needs, reducing the chances of incorrect dosing.
+* **Less Work for Patients** – Automated insulin delivery means fewer manual calculations and adjustments, making life easier for users.
+* **Prototype is in Progress!** – We’ve purchased the necessary equipment and are actively working on building the system to control the insulin pump (simulated with water).
+* **Personalized for Each Person** – The system learns from each patient’s unique patterns, ensuring insulin delivery is tailored to their specific needs.
+* **A Step Toward Better Diabetes Care** – This project highlights how AI and automation can make managing diabetes safer, simpler, and more effective in the future.
 
 [Full phase I report](phaseI/)
 
