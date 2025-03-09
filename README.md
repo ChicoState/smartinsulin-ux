@@ -8,7 +8,7 @@
 
 * **Syd Ainsworth(https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - !!!List of Person A's primary contributions!!!
 * **Sri Ramani Thungapati(https://github.com/UsabilityEngineering/ux-journal-sthungapati/tree/main/journal)** - !!!List of Person B's primary contributions!!!
-* **Elizabeth Rodriguez(!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
+* **Elizabeth Rodriguez(https://github.com/UsabilityEngineering/ux-journal-babab0uille/tree/main/journal)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
 
