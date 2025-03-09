@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Our project is focused on solving the challenges people with Type 2 diabetes face when managing their insulin levels. Many patients struggle with getting the right amount of insulin at the right time, which can lead to serious health issues. In Phase I, we spent time understanding what users really need, looking at other products on the market, and creating early designs for our system. We wanted to make sure that our solution isn’t just about delivering insulin, but also personalized to each patient’s needs, while offering features like a mood diary and health-related support through ChatGPT.
 
 ## Methods
 
