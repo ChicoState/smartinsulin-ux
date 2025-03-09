@@ -1,6 +1,6 @@
 # Personas
 
-![James Walker](James Walker.png)
+![James Walker](JamesWalker.png)
 
 
 !!!Persona!!!
