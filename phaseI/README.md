@@ -19,31 +19,25 @@ One of our initial methods in approaching the UX/UI design process for our proje
 
 1. Personas and Scenarios:
    Our findings revealed that different user groups have unique needs that are not fully addressed by existing insulin management solutions. Visually impaired users require voice-guided assistance and haptic feedback for better accessibility, while active individuals, such as athletes, need real-time insulin adjustments without manual intervention. Additionally, parents managing their child's diabetes seek remote monitoring capabilities with instant alerts to ensure timely intervention. Current devices lack seamless integration of these features, making diabetes management cumbersome for many users. By identifying these gaps, we ensured our solution incorporates automated insulin adjustments, accessibility enhancements, and intuitive remote monitoring, creating a more user-friendly, adaptable, and inclusive system for effective diabetes management.
-   
 2. Competitive Analysis:
     Our findings highlighted that while current devices effectively manage insulin delivery, they often lack personalization and seamless integration with digital health support tools, which are crucial for helping patients manage their insulin levels more effectively. Additionally, we examined cost-related barriers and accessibility challenges, ensuring our system provides a more affordable and user-friendly alternative. This helped us pinpoint areas where innovation is needed, shaping the direction of our solution towards a more personalized, AI-enhanced system for Type 2 diabetes management.
-   
 3. Heuristic Evaluation:
    Our heuristic evaluation identified the following heuristic categories as pain points (scored 7 or lower out of 10) for the Omnipod 5: User control and freedom; Consistency and standards; Error prevention; and Help users recognize, diagnose, and recover from errors. For the remaining categories, the Omnipod 5 scored 8 or higher.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
 1. Personas and Scenarios:
-   !!! Conclusions here !!!
+   From the personas and scenarios, we discovered that users require personalized and adaptable insulin management solutions that fit seamlessly into their daily lives. Visually impaired users need voice-guided navigation and haptic feedback, active individuals benefit from real-time insulin adjustments without manual intervention, and parents managing a child’s diabetes require remote monitoring with instant alerts for added peace of mind. These findings emphasize the importance of accessibility, automation, and intuitive remote tracking in UX design. Future designs should prioritize clear voice interfaces, smartwatch integration, and simplified app navigation to accommodate diverse user needs.
 2. Competitive Analysis:
-   !!! Conclusions here !!!
+   Our competitive analysis highlighted that while existing insulin pumps efficiently deliver insulin, they lack seamless digital health integration and customization. High costs, complex interfaces, and limited automation features create barriers for users. To address these shortcomings, our design should focus on a more affordable, AI-enhanced system that integrates real-time data monitoring, automated insulin adjustments, and user-friendly interfaces. By reducing manual interactions and cognitive load, we ensure that insulin management becomes effortless, intuitive, and personalized, ultimately improving user experience and adherence to treatment.
 3. Heuristic Evaluation:
-   !!! Conclusions here !!!
+   Based on our heuristic evaluation of the Omnipod 5, we can see that our target users currently struggle with a product that has limited user control and freedom, and a product that has subpar error prevention and error recovery. To this end, we know that we are likely to develop a more appealing product if we take extra care in addressing error prevention and error recovery within the application.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
-
 1. Personas and Scenarios:
-   Our personas and scenarios were not data-driven, and thus have some limitations in how much  they may be representative of actual subsets of potential users. 
+  Our personas and scenarios were not data-driven, and thus have some limitations in how much they may be representative of actual subsets of potential users. 
 2. Competitive Analysis:
-   !!! Caveats here !!!
+   Our research primarily relied on publicly available product information, user reviews, and manufacturer specifications, which may not fully capture real-world usability issues experienced by long-term users. Additionally, our analysis was constrained by the availability of direct user feedback, as we did not conduct hands-on testing of each device. Future research should include direct user testing, interviews with healthcare professionals, and hands-on evaluations to validate our findings and refine our design recommendations.
 3. Heuristic Evaluation:
    Our heuristic evaluation competitor was chosen from a shortlist that our team generated based on our, admittedly limited, prior knowledge of diabetes management devices, as well as extrapolated from competitor comparisons provided by some of our identified competitors. With no direct access to an Omnipod 5 for working with it to better understand it, our heuristic evaluation was based on what we could gather from product pages and some Google-based research into product reviews and user-identified pain points mentioned in product reviews.
