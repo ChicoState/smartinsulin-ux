@@ -9,7 +9,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 ## UX Team Members
 
 * **Syd Ainsworth(https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - Methods, Findings, Conclusions, Caveats
-* **Sri Ramani Thungapati(https://github.com/UsabilityEngineering/ux-journal-sthungapati/tree/main/journal)** - Methods, Findings, Conclusions
+* **Sri Ramani Thungapati(https://github.com/UsabilityEngineering/ux-journal-sthungapati/tree/main/journal)** - Methods, Findings, Conclusions, Caveats
 * **Elizabeth Rodriguez(https://github.com/UsabilityEngineering/ux-journal-babab0uille/tree/main/journal)** - Executive summary, Introduction, and Design Artifacts
 
 # User-Centered Design Artifacts
