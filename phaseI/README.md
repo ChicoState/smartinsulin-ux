@@ -6,7 +6,14 @@ Our project is focused on solving the challenges people with Type 2 diabetes fac
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+
+To ensure our solution effectively addresses the challenges faced by individuals managing Type 2 diabetes, we employed several research methods. Each method was chosen to uncover key insights into user needs, market gaps, and potential innovations.
+
+1. Competitive Analysis:
+   To gain insights into existing insulin management solutions, we conducted a competitive analysis by systematically evaluating key products in the market, including Omnipod 5, t: slim X2, and MiniMed 780G. This method involved gathering data from product specifications, user reviews, and manufacturer documentation to assess functionality, accuracy, user experience, cost, and technological integration. Our findings highlighted that while current devices effectively manage insulin delivery, they often lack personalization and seamless integration with digital health support tools, which are crucial for helping patients manage their insulin levels more effectively. Additionally, we examined cost-related barriers and accessibility challenges, ensuring our system provides a more affordable and user-friendly alternative. This helped us pinpoint areas where innovation is needed, shaping the direction of our solution towards a more personalized, AI-enhanced system for Type 2 diabetes management.
+
+2. 
+
 
 ## Findings
 
