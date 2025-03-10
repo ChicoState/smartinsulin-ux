@@ -9,7 +9,7 @@ Our project is focused on solving the challenges people with Type 2 diabetes fac
 1. Personas and Scenarios:
    !!! methods here !!!
 2. Competitive Analysis:
-   !!! methods here !!!
+   To gain insights into existing insulin management solutions, we conducted a competitive analysis by systematically evaluating key products in the market, including Omnipod 5, t: slim X2, and MiniMed 780G. This method involved gathering data from product specifications, user reviews, and manufacturer documentation to assess functionality, accuracy, user experience, cost, and technological integration.
 3. Heuristic Evaluation:
    Our team conducted a heuristic evaluation on what we deemed, based on analysis of the product and features in comparison to planned features for our own product, to be our closest competitor: the Omnipod 5. Utilizing Nielsen’s 10 Usability Heuristics, we scored the Omnipod 5 on a 1-10 scale for the following categories: Visibility of System Status; Match between system and the real world; User control and freedom; Consistency and standards; Error prevention; Recognition rather than recall; Flexibility and efficiency of use; Aesthetic and minimalist design; Help users recognize, diagnose, and recover from errors; and Help and documentation. We then explained the reasoning behind our scoring for each of the criteria
   
@@ -20,7 +20,7 @@ Our project is focused on solving the challenges people with Type 2 diabetes fac
 1. Personas and Scenarios:
    !!! findings here !!!
 2. Competitive Analysis:
-   To gain insights into existing insulin management solutions, we conducted a competitive analysis by systematically evaluating key products in the market, including Omnipod 5, t: slim X2, and MiniMed 780G. This method involved gathering data from product specifications, user reviews, and manufacturer documentation to assess functionality, accuracy, user experience, cost, and technological integration. Our findings highlighted that while current devices effectively manage insulin delivery, they often lack personalization and seamless integration with digital health support tools, which are crucial for helping patients manage their insulin levels more effectively. Additionally, we examined cost-related barriers and accessibility challenges, ensuring our system provides a more affordable and user-friendly alternative. This helped us pinpoint areas where innovation is needed, shaping the direction of our solution towards a more personalized, AI-enhanced system for Type 2 diabetes management.
+    Our findings highlighted that while current devices effectively manage insulin delivery, they often lack personalization and seamless integration with digital health support tools, which are crucial for helping patients manage their insulin levels more effectively. Additionally, we examined cost-related barriers and accessibility challenges, ensuring our system provides a more affordable and user-friendly alternative. This helped us pinpoint areas where innovation is needed, shaping the direction of our solution towards a more personalized, AI-enhanced system for Type 2 diabetes management.
 3. Heuristic Evaluation:
    Our heuristic evaluation identified the following heuristic categories as pain points (scored 7 or lower out of 10) for the Omnipod 5: User control and freedom; Consistency and standards; Error prevention; and Help users recognize, diagnose, and recover from errors. For the remaining categories, the Omnipod 5 scored 8 or higher.
 
