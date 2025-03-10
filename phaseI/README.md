@@ -17,12 +17,12 @@ One of our initial methods in approaching the UX/UI design process for our proje
   
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
-
 1. Personas and Scenarios:
-   !!! findings here !!!
+   Our findings revealed that different user groups have unique needs that are not fully addressed by existing insulin management solutions. Visually impaired users require voice-guided assistance and haptic feedback for better accessibility, while active individuals, such as athletes, need real-time insulin adjustments without manual intervention. Additionally, parents managing their child's diabetes seek remote monitoring capabilities with instant alerts to ensure timely intervention. Current devices lack seamless integration of these features, making diabetes management cumbersome for many users. By identifying these gaps, we ensured our solution incorporates automated insulin adjustments, accessibility enhancements, and intuitive remote monitoring, creating a more user-friendly, adaptable, and inclusive system for effective diabetes management.
+   
 2. Competitive Analysis:
     Our findings highlighted that while current devices effectively manage insulin delivery, they often lack personalization and seamless integration with digital health support tools, which are crucial for helping patients manage their insulin levels more effectively. Additionally, we examined cost-related barriers and accessibility challenges, ensuring our system provides a more affordable and user-friendly alternative. This helped us pinpoint areas where innovation is needed, shaping the direction of our solution towards a more personalized, AI-enhanced system for Type 2 diabetes management.
+   
 3. Heuristic Evaluation:
    Our heuristic evaluation identified the following heuristic categories as pain points (scored 7 or lower out of 10) for the Omnipod 5: User control and freedom; Consistency and standards; Error prevention; and Help users recognize, diagnose, and recover from errors. For the remaining categories, the Omnipod 5 scored 8 or higher.
 
