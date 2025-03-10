@@ -6,12 +6,14 @@ Our project is focused on solving the challenges people with Type 2 diabetes fac
 
 ## Methods
 
-1. Personas and Scenarios:
-   !!! methods here !!!
-2. Competitive Analysis:
-   To gain insights into existing insulin management solutions, we conducted a competitive analysis by systematically evaluating key products in the market, including Omnipod 5, t: slim X2, and MiniMed 780G. This method involved gathering data from product specifications, user reviews, and manufacturer documentation to assess functionality, accuracy, user experience, cost, and technological integration.
-3. Heuristic Evaluation:
-   Our team conducted a heuristic evaluation on what we deemed, based on analysis of the product and features in comparison to planned features for our own product, to be our closest competitor: the Omnipod 5. Utilizing Nielsen’s 10 Usability Heuristics, we scored the Omnipod 5 on a 1-10 scale for the following categories: Visibility of System Status; Match between system and the real world; User control and freedom; Consistency and standards; Error prevention; Recognition rather than recall; Flexibility and efficiency of use; Aesthetic and minimalist design; Help users recognize, diagnose, and recover from errors; and Help and documentation. We then explained the reasoning behind our scoring for each of the criteria
+One of our initial methods in approaching the UX/UI design process for our project was the development of personas and scenarios. Each member of the team sought to generate a persona targeting different aspects of potential users. Each member then generated a scenario to pair with their constructed persona, in which the persona would have cause to utilize our product. Personas and scenarios are intended to aid the project team in empathizing with potential users.
+
+   In identifying competitors both for the competitive and heuristic analyses, we utilized prior knowledge and Google searches, as well as comparison charts produced by competitors on their product information pages, to generate our list of competitors and identify the competitor best suited for deeper analysis.
+   
+   Once our competitor list was established, we conducted a detailed comparative analysis of three key insulin management devices: Omnipod 5, t: slim X2, and MiniMed 780G. We examined their functionality, usability, sensor accuracy, failure points, and integration with mobile apps. This analysis provided insights into market gaps, helping us understand how existing solutions handle insulin dosing, monitoring, and patient interaction.
+   
+   Our team conducted a heuristic evaluation on what we deemed, based on analysis of the product and features in comparison to planned features for our own product, to be our closest competitor: the Omnipod 5. Utilizing Nielsen’s 10 Usability Heuristics, we scored the Omnipod 5 on a 1-10 scale for the following categories: Visibility of System Status; Match between system and the real world; User control and freedom; Consistency and standards; Error prevention; Recognition rather than recall; Flexibility and efficiency of use; Aesthetic and minimalist design; Help users recognize, diagnose, and recover from errors; and Help and documentation. We then explained the reasoning behind our scoring for each of the criteria.
+
   
 ## Findings
 
