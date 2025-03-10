@@ -5,16 +5,18 @@
 Our project is focused on solving the challenges people with Type 2 diabetes face when managing their insulin levels. Many patients struggle with getting the right amount of insulin at the right time, which can lead to serious health issues. In Phase I, we spent time understanding what users really need, looking at other products on the market, and creating early designs for our system. We wanted to make sure that our solution isn’t just about delivering insulin, but also personalized to each patient’s needs, while offering features like a mood diary and health-related support through ChatGPT.
 
 ## Methods
+
 1. Personas and Scenarios:
    !!! methods here !!!
 2. Competitive Analysis:
    !!! methods here !!!
 3. Heuristic Evaluation:
-   !!! methods here !!!
+   Our team conducted a heuristic evaluation on what we deemed, based on analysis of the product and features in comparison to planned features for our own product, to be our closest competitor: the Omnipod 5. Utilizing Nielsen’s 10 Usability Heuristics, we scored the Omnipod 5 on a 1-10 scale for the following categories: Visibility of System Status; Match between system and the real world; User control and freedom; Consistency and standards; Error prevention; Recognition rather than recall; Flexibility and efficiency of use; Aesthetic and minimalist design; Help users recognize, diagnose, and recover from errors; and Help and documentation. We then explained the reasoning behind our scoring for each of the criteria
   
 ## Findings
 
 !!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+
 1. Personas and Scenarios:
    !!! findings here !!!
 2. Competitive Analysis:
@@ -27,19 +29,19 @@ Our project is focused on solving the challenges people with Type 2 diabetes fac
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
 1. Personas and Scenarios:
-   !!! methods here !!!
+   !!! Conclusions here !!!
 2. Competitive Analysis:
-   !!! methods here !!!
+   !!! Conclusions here !!!
 3. Heuristic Evaluation:
-   !!! methods here !!!
+   !!! Conclusions here !!!
 
 ## Caveats
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 
 1. Personas and Scenarios:
-   !!! methods here !!!
+   Our personas and scenarios were not data-driven, and thus have some limitations in how much  they may be representative of actual subsets of potential users. 
 2. Competitive Analysis:
-   !!! methods here !!!
+   !!! Caveats here !!!
 3. Heuristic Evaluation:
-   !!! methods here !!!
+   Our heuristic evaluation competitor was chosen from a shortlist that our team generated based on our, admittedly limited, prior knowledge of diabetes management devices, as well as extrapolated from competitor comparisons provided by some of our identified competitors. With no direct access to an Omnipod 5 for working with it to better understand it, our heuristic evaluation was based on what we could gather from product pages and some Google-based research into product reviews and user-identified pain points mentioned in product reviews.
