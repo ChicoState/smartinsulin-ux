@@ -1,8 +1,13 @@
 # Phase II: Refining interaction and designing wireframes
 
 ## Introduction
+In Phase II, the team focused on improving how users interact with the app and how well the design supports real-world diabetes management. The app is intended to help people living with Type 2 diabetes, as well as their caregivers, by connecting to a Bluetooth-enabled insulin pump and providing real-time health information. This round of work concentrated on refining wireframes and testing early designs through cognitive walkthroughs and informal user feedback.
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The walkthroughs revealed important issues that needed to be addressed. Users struggled with certain steps in the onboarding and setup process, especially when asked to configure insulin settings or interpret glucose data. Some features lacked clear labels or guidance, which made it harder for users to know what action to take next. One caregiver, for example, could not get past the first screen because there was no text-to-speech support available. In other cases, users hesitated when trying to review bolus history or respond to a high glucose alert, due to poor layout and limited feedback from the system.
+
+In response, the team redesigned several screens to make task flows easier to follow and to provide more immediate feedback and reassurance. Navigation paths were adjusted to match how users think about the tasks they need to complete. Button labels and screen headings were rewritten to remove ambiguity. Accessibility improvements were also added, including support for screen readers and clearer visual indicators.
+
+This phase was valuable because it confirmed what was working and, more importantly, what needed to change. The updated designs now better reflect how people actually use the app, especially in high-stakes or time-sensitive situations. The result is a clearer, more supportive experience that helps users manage diabetes with greater confidence and fewer obstacles.
 
 ## Methods
 
