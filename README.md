@@ -11,7 +11,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 ## UX Team Members
 
 * **Syd Ainsworth(https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - (p01: Methods, Findings, Conclusions, Caveats) + (p02: Methods, Conclusions, Caveats)
-* **Sri Ramani Thungapati(https://github.com/UsabilityEngineering/ux-journal-sthungapati/tree/main/journal)** - Methods, Findings, Conclusions, Caveats
+* **Sri Ramani Thungapati(https://github.com/UsabilityEngineering/ux-journal-sthungapati/tree/main/journal)** - (p01: Methods, Findings, Conclusions, Caveats) + (p02: Findings)
 * **Elizabeth E Rodriguez(https://github.com/UsabilityEngineering/ux-journal-babab0uille/tree/main/journal)** - (p01: Executive summary, Introduction, and Design Artifacts) + (p02: Wireframes, Executive summary, and Introduction)
 
 ---
@@ -64,7 +64,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 * **Setup Completion Ambiguity:**
   - Final setup screen lacked direction or confirmation on how to proceed to the dashboard.
 * **Information Gaps:**
-  - Tyler did not feel confident adjusting insulin-related settings due to lack of context.
+  - Our persona, Tyler did not feel confident adjusting insulin-related settings due to lack of context.
 
 #### Design Changes Based on Findings
 
