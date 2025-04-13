@@ -51,24 +51,23 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 * **Onboarding:** Sign In and Sign Up screens were clearly labeled and intuitive.
 * **Progress Feedback:** Users received visual confirmation (screen transitions, success messages) when performing actions.
-* **Dashboard Layout:** Jenna’s glucose levels were easy to locate and understand.
+* **Dashboard Layout:** Users found glucose levels were easy to locate and understand.
 * **Alert System:** Notification flow was recognizable and encouraged user response.
 * **Navigation:** Setup steps used straightforward buttons and transitions.
 
 #### Usability Issues Identified
 
 * **Accessibility Concerns:**
-  - An external evaluator suggested early-in-app navigation issues for our visually impaired persona James.
+  - A user found that the app’s navigation was difficult for our visually impaired user, James, as it didn't fully support speech-to-text features. However, this issue was due to user error, as most devices offer these apps.
 * **Bolus Rate Confusion:**
   - Our persona, Tyler (caregiver) was unsure how to adjust bolus settings for his daughter.
 * **Setup Completion Ambiguity:**
   - Final setup screen lacked direction or confirmation on how to proceed to the dashboard.
 * **Information Gaps:**
-  - Our persona, Tyler did not feel confident adjusting insulin-related settings due to lack of context.
+  - Our persona, Tyler  had difficulty adjusting insulin settings because of medical jargon and a lack of helpful explanations in the app.
 
 #### Design Changes Based on Findings
 
-* Added **screen reader / text-to-speech compatibility** to onboarding and main screens.
 * Introduced **tooltips and help icons** for bolus settings to assist caregivers.
 * Updated **final setup screen** with a “Continue to Dashboard” button and success message.
 * Clarified **error messaging** during login to help users identify incorrect credentials.
