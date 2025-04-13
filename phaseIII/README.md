@@ -2,6 +2,8 @@
 
 ## Introduction
 
+!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
