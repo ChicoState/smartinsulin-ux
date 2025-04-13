@@ -11,7 +11,9 @@ This phase was valuable because it confirmed what was working and, more importan
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+Our primary research method used during this sprint was the cognitive walkthrough. The specific details of this method were outlined in assignment x12 Cognitive Walkthrough, and can be used to replicate this method. Two (n=2) external users put themselves in the shoes of our personas and attempted to follow through the associated scenarios using our wireframes. At each step of the attempted walkthrough, they answered the following two questions: 1) Will the user know what to do at this step? and 2) If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal? This method is meant to simulate user feedback and identify design issues (such as lack of feedback or clear labeling) for further improvement.
+
+The software engineering (SE) team solicited informal feedback from the software engineering class (roughly n=35) during their presentation. Both the UI/UX and SE teams worked together to generate the following question: If you know someone who manages diabetes, what challenges have they faced with current diabetes management technologies?
 
 ## Findings
 
