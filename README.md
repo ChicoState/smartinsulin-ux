@@ -47,7 +47,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 **Executive Summary**
 
-### What Worked Well
+#### What Worked Well
 
 * **Onboarding:** Sign In and Sign Up screens were clearly labeled and intuitive.
 * **Progress Feedback:** Users received visual confirmation (screen transitions, success messages) when performing actions.
@@ -55,7 +55,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 * **Alert System:** Notification flow was recognizable and encouraged user response.
 * **Navigation:** Setup steps used straightforward buttons and transitions.
 
-### Usability Issues Identified
+#### Usability Issues Identified
 
 * **Lack of Accessibility:**
   - Our persona, James (visually impaired) could not proceed due to missing text-to-speech support on launch screen.
@@ -66,7 +66,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 * **Information Gaps:**
   - Tyler did not feel confident adjusting insulin-related settings due to lack of context.
 
-### Design Changes Based on Findings
+#### Design Changes Based on Findings
 
 * Added **screen reader / text-to-speech compatibility** to onboarding and main screens.
 * Introduced **tooltips and help icons** for bolus settings to assist caregivers.
