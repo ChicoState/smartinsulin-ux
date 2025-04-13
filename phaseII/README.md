@@ -31,8 +31,6 @@ The informal feedback added another layer of understanding. One caregiver who us
 
 We also found that some of the language in the app felt too clinical. People weren’t familiar with certain terms, and that made parts of the app feel intimidating. We realized we need to simplify language and give explanations where it matters. Another key thing we heard was that users expected the app to notify them when something was wrong without having to check it constantly. That made it clear how important proactive alerts really are.
 
-All of this gave us a clearer picture of our users’ needs from better guidance and feedback to more accessibility.
-
 ---
 
 ## Conclusions
