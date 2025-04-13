@@ -30,4 +30,8 @@ The Cognitive Walkthrough of the James persona, a visually impaired user, while 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Our external evaluators do not live with diabetes (to our knowledge) and thus their feedback focuses more on the interface as a whole, rather than the diabetes-specific features.
+
+Furthermore, we are a team of three novices who are not working full-time on this project, and thus the wireframes that were reviewed for the cognitive walkthroughs were not as comprehensive as those likely to be developed in a professional setting.
+
+With regards to the James persona, as noted in the conclusion of this report, none of our team have experience utilizing text-to-speech or screen-reader tools. Further research is required to ensure that the correct care be given to the compatibility of our app with such tools.
