@@ -6,11 +6,15 @@ Our project aims to make insulin delivery smarter and easier by using a Raspberr
 
 Many individuals with Type 2 diabetes face challenges in determining the correct insulin dosage, as it depends on factors like food intake, physical activity, and overall health. Delays in administering insulin can result in dangerous fluctuations in blood sugar levels, leading to sudden spikes or crashes. Additionally, the risk of miscalculating the dosage, whether too much or too little, can cause serious health complications, making effective diabetes management both difficult and crucial.
 
+---
+
 ## UX Team Members
 
 * **Syd Ainsworth(https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - Methods, Findings, Conclusions, Caveats
 * **Sri Ramani Thungapati(https://github.com/UsabilityEngineering/ux-journal-sthungapati/tree/main/journal)** - Methods, Findings, Conclusions, Caveats
-* **Elizabeth Rodriguez(https://github.com/UsabilityEngineering/ux-journal-babab0uille/tree/main/journal)** - Executive summary, Introduction, and Design Artifacts
+* **Elizabeth E Rodriguez(https://github.com/UsabilityEngineering/ux-journal-babab0uille/tree/main/journal)** - (p01: Executive summary, Introduction, and Design Artifacts) + (p02: Wireframes, Executive summary, and Introduction)
+
+---
 
 # User-Centered Design Artifacts
 
@@ -18,6 +22,8 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
 * [Prototype](#)
+
+---
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -35,13 +41,42 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 [Full phase I report](phaseI/)
 
+---
+
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+## What Worked Well
+
+* **Onboarding:** Sign In and Sign Up screens were clearly labeled and intuitive.
+* **Progress Feedback:** Users received visual confirmation (screen transitions, success messages) when performing actions.
+* **Dashboard Layout:** Jenna’s glucose levels were easy to locate and understand.
+* **Alert System:** Notification flow was recognizable and encouraged user response.
+* **Navigation:** Setup steps used straightforward buttons and transitions.
+
+## Usability Issues Identified
+
+* **Lack of Accessibility:**
+  - Our persona, James (visually impaired) could not proceed due to missing text-to-speech support on launch screen.
+* **Bolus Rate Confusion:**
+  - Our persona, Tyler (caregiver) was unsure how to adjust bolus settings for his daughter.
+* **Setup Completion Ambiguity:**
+  - Final setup screen lacked direction or confirmation on how to proceed to the dashboard.
+* **Information Gaps:**
+  - Tyler did not feel confident adjusting insulin-related settings due to lack of context.
+
+## Design Changes Based on Findings
+
+* Added **screen reader / text-to-speech compatibility** to onboarding and main screens.
+* Introduced **tooltips and help icons** for bolus settings to assist caregivers.
+* Updated **final setup screen** with a “Continue to Dashboard” button and success message.
+* Clarified **error messaging** during login to help users identify incorrect credentials.
+* Ensured **alert notifications** include confirmation and clear call-to-action (e.g., “Acknowledge,” “View Details”).
 
 [Full phase II report](phaseII/)
+
+---
 
 # Phase III: Prototypes and User Testing
 
