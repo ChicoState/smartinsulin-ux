@@ -21,7 +21,12 @@ The software engineering (SE) team solicited informal feedback from the software
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The Cognitive Walkthrough identified a persona/scenario that we had neglected to fully address. The persona of Tyler, a parent monitoring his child with diabetes, requires the functionality of a monitoring account, which we had not accounted for when we built out our wireframes. Initially, we had thought of implementing a monitoring dashboard accessible through the hamburger menu sidebar of the app, but determined that to be a less effective implementation of the monitoring functionality goals. We have elected to add an “add monitoring account” button in several locations in the app (including within the workflow of the creation of a primary account). The monitoring account will then be accessed through a username and password sign-on, like a primary account, but will not prompt the user to go through first-time device setup.
+
+Cognitive Walkthroughs also identified other areas of the application, such as settings, that require additional building out. The Tyler persona Cognitive Walkthrough identified several areas of the application where additional labeling and feedback would improve user interactions.
+
+The Cognitive Walkthrough of the James persona, a visually impaired user, while not directly useful in feedback, did bring to our attention a lack of detail to our knowledge of the functionality of text-to-speech and screenreader services. We intend to explore that functionality on multiple smartphones and make revised notes for future user interaction and feedback conducted by non-visually impaired external users attempting to test functionality for visually impaired users.
+
 
 ## Caveats
 
