@@ -10,7 +10,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 ## UX Team Members
 
-* **Syd Ainsworth(https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - Methods, Findings, Conclusions, Caveats
+* **Syd Ainsworth(https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - (p01: Methods, Findings, Conclusions, Caveats) + (p02: Methods, Conclusions, Caveats)
 * **Sri Ramani Thungapati(https://github.com/UsabilityEngineering/ux-journal-sthungapati/tree/main/journal)** - Methods, Findings, Conclusions, Caveats
 * **Elizabeth E Rodriguez(https://github.com/UsabilityEngineering/ux-journal-babab0uille/tree/main/journal)** - (p01: Executive summary, Introduction, and Design Artifacts) + (p02: Wireframes, Executive summary, and Introduction)
 
