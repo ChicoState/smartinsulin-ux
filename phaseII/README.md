@@ -1,5 +1,7 @@
 # Phase II: Refining interaction and designing wireframes
 
+---
+
 ## Introduction
 In Phase II, the team focused on improving how users interact with the app and how well the design supports real-world diabetes management. The app is intended to help people living with Type 2 diabetes, as well as their caregivers, by connecting to a Bluetooth-enabled insulin pump and providing real-time health information. This round of work concentrated on refining wireframes and testing early designs through cognitive walkthroughs and informal user feedback.
 
@@ -9,15 +11,28 @@ In response, the team redesigned several screens to make task flows easier to fo
 
 This phase was valuable because it confirmed what was working and, more importantly, what needed to change. The updated designs now better reflect how people actually use the app, especially in high-stakes or time-sensitive situations. The result is a clearer, more supportive experience that helps users manage diabetes with greater confidence and fewer obstacles.
 
+---
+
 ## Methods
 
 Our primary research method used during this sprint was the cognitive walkthrough. The specific details of this method were outlined in assignment x12 Cognitive Walkthrough, and can be used to replicate this method. Two (n=2) external users put themselves in the shoes of our personas and attempted to follow through the associated scenarios using our wireframes. At each step of the attempted walkthrough, they answered the following two questions: 1) Will the user know what to do at this step? and 2) If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal? This method is meant to simulate user feedback and identify design issues (such as lack of feedback or clear labeling) for further improvement.
 
 The software engineering (SE) team solicited informal feedback from the software engineering class (roughly n=35) during their presentation. Both the UI/UX and SE teams worked together to generate the following question: If you know someone who manages diabetes, what challenges have they faced with current diabetes management technologies?
+---
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+During this phase, we used two main research methods: (1) cognitive walkthroughs and (2) informal feedback from users and caregivers. Both gave us important insight into how people actually use the app—and where things break down. It helped us better understand what users need, especially when managing or supporting someone with Type 2 diabetes.
+
+From the walkthroughs, it became clear that the setup process needs to be more supportive. People often got stuck when asked to enter things like the bolus rate, mostly because they did not know what those terms meant. This told us we needed to explain these things better, especially for caregivers who are involved but may not have a medical background. We also noticed that users weren’t always sure if they had done something correctly—like saving a setting or responding to an alert—because the app didn’t give clear confirmation. Navigation could be confusing too. Some users had trouble finding scheduled doses or bolus history, and the final setup screen left people hanging with no clear next step.
+
+The informal feedback added another layer of understanding. One caregiver who uses text-to-speech couldn’t get past the home screen because there was no support for it—something we hadn’t fully considered even though most phones offer built-in audio features. Caregivers also told us they needed emotional reassurance. They didn’t just want numbers; they wanted to know their loved one was okay. Even a simple message like “All vitals are stable” would make a big difference.
+
+We also found that some of the language in the app felt too clinical. People weren’t familiar with certain terms, and that made parts of the app feel intimidating. We realized we need to simplify language and give explanations where it matters. Another key thing we heard was that users expected the app to notify them when something was wrong—without having to check it constantly. That made it clear how important proactive alerts really are.
+
+All of this gave us a clearer picture of our users’ needs—from better guidance and feedback to more accessibility and emotional support. These takeaways directly shaped how we refined the design going forward.
+
+---
 
 ## Conclusions
 
@@ -27,6 +42,7 @@ Cognitive Walkthroughs also identified other areas of the application, such as s
 
 The Cognitive Walkthrough of the James persona, a visually impaired user, while not directly useful in feedback, did bring to our attention a lack of detail to our knowledge of the functionality of text-to-speech and screenreader services. We intend to explore that functionality on multiple smartphones and make revised notes for future user interaction and feedback conducted by non-visually impaired external users attempting to test functionality for visually impaired users.
 
+---
 
 ## Caveats
 
@@ -35,3 +51,5 @@ Our external evaluators do not live with diabetes (to our knowledge) and thus th
 Furthermore, we are a team of three novices who are not working full-time on this project, and thus the wireframes that were reviewed for the cognitive walkthroughs were not as comprehensive as those likely to be developed in a professional setting.
 
 With regards to the James persona, as noted in the conclusion of this report, none of our team have experience utilizing text-to-speech or screen-reader tools. Further research is required to ensure that the correct care be given to the compatibility of our app with such tools.
+
+---
