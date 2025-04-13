@@ -57,8 +57,8 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 #### Usability Issues Identified
 
-* **Lack of Accessibility:**
-  - Our persona, James (visually impaired) could not proceed due to missing text-to-speech support on launch screen.
+* **Accessibility Concerns:**
+  - An external evaluator suggested early-in-app navigation issues for our visually impaired persona James.
 * **Bolus Rate Confusion:**
   - Our persona, Tyler (caregiver) was unsure how to adjust bolus settings for his daughter.
 * **Setup Completion Ambiguity:**
