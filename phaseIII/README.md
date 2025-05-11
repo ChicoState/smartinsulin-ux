@@ -25,6 +25,36 @@ We began by asking participants about their familiarity with diabetes management
 
 > **Q: Are you currently managing diabetes for yourself or someone else?**
 
+If **NO**:
+Participants who did not manage diabetes were asked:
+
+> Are you currently managing diabetes for yourself or someone else?
+> If not, how familiar are you with how Type 2 diabetes is typically managed?
+> Have you ever seen or heard about devices or apps that help people manage their diabetes?
+> What challenges do you think people with Type 2 diabetes face when managing their blood sugar levels?
+> Have you had a family member, friend, or colleague who uses an insulin pump or app?
+> What features would you want in a smart insulin system (e.g. tracking, dosage suggestions, alerts)?
+> When thinking about health apps, what makes one feel trustworthy and easy to use?
+
+If **YES**:
+Participants who did manage diabetes (for themselves or others) were asked:
+
+> What methods or tools do you use to track glucose levels or insulin? e.g., apps, paper logs, insulin pumps, etc.
+> What challenges or frustrations do you face when managing your insulin or glucose levels?
+> Do you currently use any mobile apps or digital tools to help with diabetes management? Or have you in the past? If YES, what have you liked or disliked about those tools? If NO, why not?
+> What features would you find most helpful in a smart insulin system? e.g., automatic tracking, dosage suggestions, alerts, etc.
+
+Then, we gave people several tasks to do using the wireframe prototype. We wrote down how they moved through the app and what they said as they were thinking aloud.
+
+**Task 1: App Setup and Pump Pairing**
+Participants were asked to imagine they just received a smart insulin pump and are setting up the app for the first time. This included pairing the device, entering personal details, and configuring delivery preferences.
+
+> Task completed successfully: ☐ Yes ☐ No
+On a scale from 1 to 5, how would you rate completing this task?
+1 = Very Difficult, 5 = Very Easy
+Why did you give that rating?
+
+Purpose: To test onboarding experience, clarity of instructions, and overall ease of initial configuration.
 
 ## Findings
 
