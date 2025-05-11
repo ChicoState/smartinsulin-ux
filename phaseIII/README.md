@@ -29,19 +29,29 @@ If **NO**:
 Participants who did not manage diabetes were asked:
 
 > Are you currently managing diabetes for yourself or someone else?
+
 > If not, how familiar are you with how Type 2 diabetes is typically managed?
+
 > Have you ever seen or heard about devices or apps that help people manage their diabetes?
+
 > What challenges do you think people with Type 2 diabetes face when managing their blood sugar levels?
+
 > Have you had a family member, friend, or colleague who uses an insulin pump or app?
+
 > What features would you want in a smart insulin system (e.g. tracking, dosage suggestions, alerts)?
+
 > When thinking about health apps, what makes one feel trustworthy and easy to use?
+
 
 If **YES**:
 Participants who did manage diabetes (for themselves or others) were asked:
 
 > What methods or tools do you use to track glucose levels or insulin? e.g., apps, paper logs, insulin pumps, etc.
+
 > What challenges or frustrations do you face when managing your insulin or glucose levels?
+
 > Do you currently use any mobile apps or digital tools to help with diabetes management? Or have you in the past? If YES, what have you liked or disliked about those tools? If NO, why not?
+
 > What features would you find most helpful in a smart insulin system? e.g., automatic tracking, dosage suggestions, alerts, etc.
 
 Then, we gave people several tasks to do using the wireframe prototype. We wrote down how they moved through the app and what they said as they were thinking aloud.
@@ -54,7 +64,74 @@ On a scale from 1 to 5, how would you rate completing this task?
 1 = Very Difficult, 5 = Very Easy
 Why did you give that rating?
 
-Purpose: To test onboarding experience, clarity of instructions, and overall ease of initial configuration.
+
+Purpose: To test the onboarding experience, clarity of instructions, and overall ease of initial configuration.
+
+**Task 2: Exporting Blood Sugar Reports**
+Participants prepared for a doctor’s appointment by exporting their recent glucose data as a PDF.
+
+> Task completed successfully: ☐ Yes ☐ No
+On a scale from 1 to 5, how would you rate completing this task?
+Why did you give that rating?
+
+Purpose: To evaluate discoverability and usability of the export/share feature, as well as trust in the report’s formatting.
+
+**Task 3: Logging an Unusual Reading**
+Participants were asked to record a note explaining an abnormal blood sugar reading (e.g. after a large meal or stress).
+
+> Task completed successfully: ☐ Yes ☐ No
+On a scale from 1 to 5, how would you rate completing this task?
+Why did you give that rating?
+
+Purpose: To assess flexibility in logging contextual information and the intuitiveness of manual input.
+
+**Task 4: Using the Chat Assistant**
+Participants used the in-app chat to ask a dietary question:
+
+"How many carbs are typically in a medium-sized banana?"
+
+> Task completed successfully: ☐ Yes ☐ No
+On a scale from 1 to 5, how would you rate completing this task?
+Why did you give that rating?
+
+Purpose: To examine usability and usefulness of AI-driven interaction, as well as trust in health-related answers.
+
+**Task 5: Viewing Trends and Summaries**
+Participants reviewed recent glucose and insulin trends using the app’s analytics dashboard.
+
+> Task completed successfully: ☐ Yes ☐ No
+On a scale from 1 to 5, how would you rate completing this task?
+Why did you give that rating?
+
+Purpose: To evaluate readability of data visualizations, layout of insights, and user comprehension of trends.
+
+**Task 6: Caregiver Monitoring**
+Participants imagined monitoring a loved one’s diabetes data and were asked to review recent trends, alerts, and insulin history.
+
+> Task completed successfully: ☐ Yes ☐ No
+On a scale from 1 to 5, how would you rate completing this task?
+Why did you give that rating?
+
+Purpose: To test multi-user support, caregiver access, and clarity of information in a remote monitoring context.
+
+**Post-Session Debrief**
+At the end of the session, participants were asked to reflect on their experience:
+
+> What did you like most about the interface or experience?
+
+> What did you find confusing or difficult?
+
+> Were there any features you expected but didn’t find?
+
+> How confident would you feel using this app for yourself or someone else?
+
+> What would you change to make it better?
+
+> Would you be interested in future testing or feedback sessions?
+
+These questions helped us identify unmet expectations, areas for improvement, and overall user sentiment.
+
+
 
 ## Findings
 
