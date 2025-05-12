@@ -81,28 +81,28 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 **Executive Summary**
 
-## What We Did
+### What We Did
 
 In this sprint, we tested our **SmartInsulin** mobile app prototype with real people. We wanted to see how easy it is for users to get started with the app, use its main features, and share their thoughts on what worked and what didn’t.
 
-## Why We Did It
+### Why We Did It
 
 The goal was simple: **make sure our app actually helps people managing Type 2 diabetes** (either for themselves or someone they care for). We watched how participants used the app in common, real-life situations and asked them to talk through what they were thinking.
 
-## How We Tested
+### How We Tested
 
 We asked users to try six tasks using the app:
 
-1. **Set up the app and pair their insulin pump**
-2. **Export blood sugar reports** as a PDF
-3. **Log an unusual blood sugar reading**
-4. **Ask a dietary question** using the AI chatbot
-5. **View glucose and insulin trends**
-6. **Monitor someone else’s diabetes data** (as a caregiver)
+    1. **Set up the app and pair their insulin pump**
+    2. **Export blood sugar reports** as a PDF
+    3. **Log an unusual blood sugar reading**
+    4. **Ask a dietary question** using the AI chatbot
+    5. **View glucose and insulin trends**
+    6. **Monitor someone else’s diabetes data** (as a caregiver)
 
 After each task, they rated how easy it was (1 = Very Hard, 5 = Very Easy) and shared their thoughts.
 
-## Things That Went Well
+### Things That Went Well
 
 - **Most people completed tasks easily** — especially if they were familiar with health apps.
 - **Trend graphs** were helpful and clear for many users.
