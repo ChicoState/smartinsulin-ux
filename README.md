@@ -21,8 +21,8 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
-
+* [Prototype](https://www.figma.com/proto/3UfoDGpiQyFp0oDP9B3OO3/smartinsulin-prototype?node-id=2009-460&p=f&t=jL6aCALZ8KUapavs-1&scaling=min-zoom&content-scaling=fixed&page-id=2009%3A283&starting-point-node-id=2009%3A460&show-proto-sidebar=1)
+ 
 ---
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
