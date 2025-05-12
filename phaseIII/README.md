@@ -60,7 +60,7 @@ Then, we gave people several tasks to do using the wireframe prototype. We wrote
 Participants were asked to imagine they just received a smart insulin pump and are setting up the app for the first time. This included pairing the device, entering personal details, and configuring delivery preferences.
 
 > Task completed successfully: ☐ Yes ☐ No
-On a scale from 1 to 5, how would you rate completing this task?
+> On a scale from 1 to 5, how would you rate completing this task?
 1 = Very Difficult, 5 = Very Easy
 Why did you give that rating?
 
