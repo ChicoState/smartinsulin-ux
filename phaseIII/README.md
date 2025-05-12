@@ -2,11 +2,11 @@
 
 ## Introduction
 
-In Phase III, our team conducted a user study to test the usability of our SmartInsulin mobile prototype. The prototype was refined based on insights from the earlier phases, and this final evaluation focused on how well users could navigate its core features. We observed how participants interacted with the app in simulated real-world scenarios, with the goal of identifying areas for improvement before finalizing the design.
+In Phase III, our team conducted a user study to test the usability of our SmartInsulin mobile application prototype. The prototype was refined based on insights from the earlier phases, and this final evaluation focused on how well users could navigate its core features. We observed how participants interacted with the prototype in simulated real-world scenarios, with the goal of identifying areas for improvement before finalizing the design.
 
 ## Methods
 
-To evaluate the usability of our SmartInsulin prototype, we conducted a structured user study simulating realistic scenarios for individuals managing Type 2 diabetes. The purpose of the study was to identify usability strengths and pain points across key features of the app, such as setup, data sharing, note logging, trend analysis, and caregiver support.
+To evaluate the usability of our SmartInsulin prototype, we conducted a structured user study simulating realistic scenarios for individuals managing Type 2 diabetes. The purpose of the study was to identify usability strengths and pain points across key features of the interface, interactions, and flows, such as setup, data sharing, note logging, trend analysis, and caregiver support.
 
 This was a formative usability study, designed to inform design decisions while the prototype is still evolving. We used the think-aloud protocol, where participants verbalized their thoughts, reactions, and confusion while performing tasks. This method allowed us to gain insight into user decision-making, expectations, and perceptions of ease-of-use.
 
