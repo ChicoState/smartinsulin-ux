@@ -85,7 +85,7 @@ Users also wanted more control over how they view their glucose data. Many asked
 
 Finally, the feature for monitoring accounts (used by caregivers/parents) was a little confusing. Some people were not sure how to log in or thought they needed to use someone else’s account. We plan to create a clearer step-by-step guide to help users set up and use this feature the right way.
 
-In short, this study confirmed that several parts of the app—like the setup process, chatbot, and layout—are already strong. It also helped us see where improvements are needed, especially in labels, buttons, language, and data views. These changes will help make the app easier to use for everyone. In the future, we also plan to test the app with a wider group of users, especially people who manage diabetes themselves, to make sure the app truly supports their needs.
+In short, this study confirmed that several parts of the app like the setup process, chatbot, and layout are already strong. It also helped us see where improvements are needed, especially in labels, buttons, language, and data views. These changes will help make the app easier to use for everyone. In the future, we also plan to test the app with a wider group of users, especially people who manage diabetes themselves, to make sure the app truly supports their needs.
 
 ## Caveats
 
