@@ -93,12 +93,12 @@ The goal was simple: **make sure our app actually helps people managing Type 2 d
 
 We asked users to try six tasks using the app:
 
-    1. Set up the app and pair their insulin pump
-    2. Export blood sugar reports as a PDF
-    3. Log an unusual blood sugar reading
-    4. Ask a dietary question using the AI chatbot
-    5. View glucose and insulin trends
-    6. Monitor someone else’s diabetes data (as a caregiver/parent)
+   1. Set up the app and pair their insulin pump
+   2. Export blood sugar reports as a PDF
+   3. Log an unusual blood sugar reading
+   4. Ask a dietary question using the AI chatbot
+   5. View glucose and insulin trends
+   6. Monitor someone else’s diabetes data (as a caregiver/parent)
 
 After each task, they rated how easy it was (1 = Very Hard, 5 = Very Easy) and shared their thoughts.
 
@@ -116,8 +116,8 @@ After each task, they rated how easy it was (1 = Very Hard, 5 = Very Easy) and s
 - **Note logging could be faster** — fewer taps and more pre-filled options.
 - **Chat answers were good,** but users wanted sources and safety disclaimers.
 - **Some users were confused by trend data** — we need better explanations or tooltips.
----
 
+---
 Thanks to everyone who tested the app and helped us move one step closer to a truly helpful tool for diabetes management!
 
 [Full phase III report](phaseIII/)
