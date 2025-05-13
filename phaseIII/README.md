@@ -10,6 +10,8 @@ To evaluate the usability of our SmartInsulin prototype, we conducted a structur
 
 This was a formative usability study, designed to inform design decisions while the prototype is still evolving. We used the think-aloud protocol, where participants verbalized their thoughts, reactions, and confusion while performing tasks. This method allowed us to gain insight into user decision-making, expectations, and perceptions of ease-of-use.
 
+Each user was first presented an [Informed Consent Form](SmartInsulin%20User%20Study%20Protocol.pdf), given ample time to review and ask any questions, and the study proceeded only once the user had signed the consent form.
+
 The study included three parts:
 
 1. Preliminary questions to understand user background and expectations, which forked into two separate paths based on each user's answer to the initial question
