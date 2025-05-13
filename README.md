@@ -10,7 +10,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 
 ## UX Team Members
 
-* **[Syd Ainsworth](https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - (p01: Methods, Findings, Conclusions, Caveats) + (p02: Wireframes, Methods, Conclusions, Caveats) + (p03: Initial prototype construction and frame wiring, IRB submission, Study spreadsheet formatting, Methods editing, Findings, Caveats)
+* **[Syd Ainsworth](https://github.com/UsabilityEngineering/ux-journal-5QU1D/tree/main/journal)** - (p01: Methods, Findings, Conclusions, Caveats) + (p02: Wireframes in Figma, Methods, Conclusions, Caveats) + (p03: Initial prototype construction and frame wiring, IRB submission, Study spreadsheet formatting, Methods editing, Findings, Caveats)
 * **[Sri Ramani Thungapati](https://github.com/UsabilityEngineering/ux-journal-sthungapati/tree/main/journal)** - (p01: Methods, Findings, Conclusions, Caveats) + (p02: Findings, Conclusions) + (p03 - Introduction, Methods, Protocol Script, Refining Wireframes) 
 * **[Elizabeth E Rodriguez](https://github.com/UsabilityEngineering/ux-journal-babab0uille/tree/main/journal)** - (p01: Executive summary, Introduction, and Design Artifacts) + (p02: Wireframes, Executive summary, and Introduction) + (p03: Prototype Design, Executive summary, and Conclusions)
 
