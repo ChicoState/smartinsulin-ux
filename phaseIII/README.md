@@ -33,10 +33,36 @@ The post-task debrief questions helped us identify unmet expectations, areas for
 
 For the specific copy of the protocol followed over the course of the user study, please see the [protocol document](https://github.com/ChicoState/smartinsulin-ux/blob/main/phaseIII/SmartInsulin%20User%20Study%20Protocol.pdf).
 
+Our software engineering team also solicited feedback from the software engineering class (n = 35, approximately) during a demonstration of the application.
 
 ## Findings
+### User Study
+#### __Background:__
+67% (4 of 6) users had no previous experience managing diabetes. The two users who had some experience managing diabetes monitored for a family member, who instructed them on what to do, and had no experience with diabetes-related applications. Two of the four users who had no previous experience managing diabetes had a basic understanding of the condition and could theorize at some of the challenges diabetics may face in monitoring their condition.
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+Two users proposed (response to NO – c) that blood-sugar-related concerns as a major point of concern for diabetics. Four users suggested alerts and/or reminders as a feature of a diabetes management app. Three users cited reviews or other trustworthy sources for recommendation as a point of trustworthiness-determination for an application.\
+
+#### __Tasks:__
+100% (6 of 6) of our six-user sample completed task one. The mode of the 1-5 rating of the task was 5, with the mean coming out to 4.3, and a standard deviation of 0.8. User feedback trended toward an appreciation for the linear nature of the sign-up process.
+
+83% (5 of 6) users completed task two. The user who did not successfully complete the task rated the task a 2, while the task mode was 4, the mean was 3.5, and the standard deviation was 0.7. No two users followed the same interaction path to complete the task. User feedback trended toward indicating that a flaw in the prototype (the ‘Export to PDF’ button being “greyed out”) made them believe that another action needed to be completed prior to being able to utilize that button.
+
+100% (6 of 6) of our six-user sample completed task three. The mode of the 1-5 rating of the task was 3, the mean was 4.3, and the standard deviation was 0.4. User feedback tended toward users expecting a text field, which was not present in the prototype. User feedback also tended toward users seeking out a “log” or “notes” label in the prototype. Users expressed a desire for clearer labeling directing them toward the correct part of the app.
+
+100% (6 of 6) of our six-user sample completed task four. Both the mean and mode of the 1-5 rating scale were 5, and consequentially the standard deviation was 0. Users indicated the chatbot button’s isolation on the home screen made it easy to identify, and from there the interaction was, as users identified, straight-forward. One user remarked on privacy concerns regarding a chatbot within the application, and would prefer to do searching outside of the application.
+
+83% (5 of 6) users completed task five. The user who did not successfully complete the task rated the task a 1, while the task mode was 4, the mean was 3.5, and the standard deviation was 1.4. Two users noted the graph icon to be assistive in helping them identify the correct course of action. Four users clicked directly from the dashboard/home page to the CGM View, then clicked on the graph. One user suggested that he would like to see functionality for changing time span and/or trend analysis.
+
+100% (6 of 6) of our six-user sample completed task six. The mode of the 1-5 rating of the task was 4, the mean was 4.3, and the standard deviation was 0.5. The majority of users who technically successfully completed the task assumed that they would have an account with which to sign in. One user assumed he would sign in with the primary user’s credentials.
+
+#### __Debrief:__
+Two users noted that they liked the minimalism of screens. Responses from the majority of users trended toward an appreciation for the organization of the home screen. Two users suggested adding color to the interface. Four users indicated that language and/or jargon acted as a barrier for interaction and usage.
+
+### __Sofware Engineering Team Feedback:__
+Our software engineering team received feedback predominantly centered around the graph features of the application. One commenter suggested that the CMG graph have a projection for the next hour or so. Another user inquired after all-time readings. On a similar note, there was a question on if a user could view historic data by different time periods (hour, day, etc.).
+
+Another user expressed concern over accidental input protections (such as protecting against typos). One user wanted “drop-downs for the options” due to language/jargon limitations.
+
 
 ## Conclusions
 
@@ -44,4 +70,10 @@ For the specific copy of the protocol followed over the course of the user study
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+We observed all six of our users to be male. All of our users also come from a more technologically literate background. Five of our users were college students. To that end, this sample was not representative of the broader user base that our application is geared toward.
+
+Our prototype was also not a truly faithful rendition of the application at the time, as there was some degree of a breakdown in communication in what features were planned for where.
+
+The prototype was designed with the expectation that a live interaction environment would be equipped with mobile device back and forward functionality. The Figma native back and forward buttons for the prototype navigated between screens in an unexpected fashion, leading to errors not to be directly attributed to the prototype’s design. It should be noted that the one user failure of task two was noted as such despite the issue primarily being caused by the back-button issue. The moderator acknowledged that the user was inadvertently shown aspects of the prototype’s functionality (specifically the Pod and Monitor buttons in the app bar) while the moderator attempted to troubleshoot the Figma prototyping issue.
+
+The results of task six suggest that the task was structured in a way ineffective at testing the full functionality of a monitoring account. Were we to run another user study, we would take the user from the primary account’s dashboard through to the creation of a monitoring account and then accessing said monitoring account.
