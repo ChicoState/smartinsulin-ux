@@ -37,6 +37,8 @@ Our software engineering team also solicited feedback from the software engineer
 
 ## Findings
 ### User Study
+The full collection of data from this user study can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1oINi5R7GugN7KuO-_0Xp0-A-QpbCyS-iFTeI-r4qcZ0/edit?usp=sharing).
+
 #### __Background:__
 67% (4 of 6) users had no previous experience managing diabetes. The two users who had some experience managing diabetes monitored for a family member, who instructed them on what to do, and had no experience with diabetes-related applications. Two of the four users who had no previous experience managing diabetes had a basic understanding of the condition and could theorize at some of the challenges diabetics may face in monitoring their condition.
 
