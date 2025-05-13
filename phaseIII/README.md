@@ -55,6 +55,8 @@ Two users proposed (response to NO – c) that blood-sugar-related concerns as a
 
 100% (6 of 6) of our six-user sample completed task six. The mode of the 1-5 rating of the task was 4, the mean was 4.3, and the standard deviation was 0.5. The majority of users who technically successfully completed the task assumed that they would have an account with which to sign in. One user assumed he would sign in with the primary user’s credentials.
 
+![graph visualizing the findings of the task quantitative results](Graph.png)
+
 #### __Debrief:__
 Two users noted that they liked the minimalism of screens. Responses from the majority of users trended toward an appreciation for the organization of the home screen. Two users suggested adding color to the interface. Four users indicated that language and/or jargon acted as a barrier for interaction and usage.
 
