@@ -1,6 +1,6 @@
 # Smart Insulin
 
-Managing Type 2 diabetes can be tricky because patients need to take the right amount of insulin at the right time. If they take too much or too little, it can lead to serious health problems. Right now, many people rely on manual calculations or guesswork, which isn't always accurate.
+Managing Type 2 diabetes can be tricky because patients need to take the right amount of insulin at the right time. If they take too much or too little, it can lead to serious health problems. Right now, many people rely on manual calculations or guesswork, which is not always accurate.
 
 Our project aims to make insulin delivery smarter and easier by using a Raspberry Pi (a small computer) and machine learning. Instead of relying on real-time sensors, we use historical data (past glucose and insulin records) to predict how much insulin a person needs. The Raspberry Pi will then control a small pump to automatically deliver the right amount of insulin (using water in our prototype).
 
@@ -58,7 +58,7 @@ Many individuals with Type 2 diabetes face challenges in determining the correct
 #### Usability Issues Identified
 
 * **Accessibility Concerns:**
-  - A user found that the app’s navigation was difficult for our visually impaired persona, James, as it didn't fully support speech-to-text features. However, this issue was due to user error, as most devices offer these apps.
+  - A user found that the app’s navigation was difficult for our visually impaired persona, James, as it did not fully support speech-to-text features. However, this issue was due to user error, as most devices offer these apps.
 * **Bolus Rate Confusion:**
   - Our persona, Tyler (caregiver) was unsure how to adjust bolus settings for his daughter.
 * **Setup Completion Ambiguity:**
