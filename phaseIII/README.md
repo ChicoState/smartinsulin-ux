@@ -69,10 +69,23 @@ Our software engineering team received feedback predominantly centered around th
 
 Another user expressed concern over accidental input protections (such as protecting against typos). One user wanted “drop-downs for the options” due to language/jargon limitations.
 
-
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+This user study gave us a better understanding of how people use the SmartInsulin app. It showed us what parts are working well and which parts need to be improved. Overall, the feedback was very helpful in guiding the next steps of the app’s design.
+
+Most users found the sign-up and setup process easy to follow. They liked how simple and step-by-step the onboarding was, so we plan to keep that part as it is, with only small improvements if needed. Users also had a very positive experience with the chatbot. It was easy to find and use, and people felt comfortable interacting with it. Because of this, we will keep the chatbot in its current form. We will only add a short message to explain how user privacy is protected, since one user mentioned a concern about that.
+
+The main screen of the app was also well-received. Users liked the clean and organized look, which helped them feel in control. We will keep this layout but may add a bit of color and clearer dropdown menus to make things easier to find.
+
+At the same time, there are some things we plan to improve. Some users had trouble figuring out where to log notes or add information. The labels were not always clear, so we will use more helpful words and icons in the next version. One user also got confused when the “Export to PDF” button looked inactive. It made them think they had to do something else before using it. To fix this, we will add messages or hints to explain what is happening when a button is not working.
+
+Another issue was the use of complex language. Some medical or technical words made it harder for users to understand what to do. In the next version, we will use simpler language and include tips or definitions to help explain anything unclear.
+
+Users also wanted more control over how they view their glucose data. Many asked for options to change the time range on graphs or to see future trends. We will add these features so users can better understand their data over time.
+
+Finally, the feature for monitoring accounts (used by caregivers/parents) was a little confusing. Some people were not sure how to log in or thought they needed to use someone else’s account. We plan to create a clearer step-by-step guide to help users set up and use this feature the right way.
+
+In short, this study confirmed that several parts of the app—like the setup process, chatbot, and layout—are already strong. It also helped us see where improvements are needed, especially in labels, buttons, language, and data views. These changes will help make the app easier to use for everyone. In the future, we also plan to test the app with a wider group of users, especially people who manage diabetes themselves, to make sure the app truly supports their needs.
 
 ## Caveats
 
